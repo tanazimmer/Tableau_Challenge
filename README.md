@@ -1,7 +1,7 @@
 # Tableau_Challenge
-##Goals: Notice 2 phenomenons, create visualizations for each, create a dashboard for each, create a story
+## Goals: Notice 2 phenomenons, create visualizations for each, create a dashboard for each, create a story
 
-##Phenomenons
+### Phenomenons
   1. More bike trips are taken on Thursday than any other day
   2. There are more male riders than females  
   
